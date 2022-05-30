@@ -1,2 +1,1 @@
-# odin-recipes
-A simple website of vegan recipes
+This is a very simple website of vegan recipes. My first assignment for The Odin Project. Yay.
