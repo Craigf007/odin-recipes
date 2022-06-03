@@ -1,0 +1,14 @@
+.main-head {
+    color: blue;
+    background: #00ffaa;
+    text-align: center;
+    font-size: 48;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+ul,
+ol {
+    font-size: 28;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
